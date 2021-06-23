@@ -21,7 +21,7 @@ steps:
       from_secret: DockerHub
     repo: guinogueira7/java-restful-web-services
     tags:
-      - latest
+      - 1.1.4
       - '1.1.4'
     environment:
       - DOCKER_LAUNCH_DEBUG=true
